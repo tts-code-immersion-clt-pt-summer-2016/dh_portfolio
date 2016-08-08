@@ -1,0 +1,42 @@
+body {font-family: , sans serif;
+  background-color: #C5EFF7;}
+
+.navbar {background-color: #D91E18;}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav>li>a {color: white;}
+
+
+.jumbotron {background-image: url("images/html.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  margin-top: 40px;
+  padding: 20%;
+  background-attachment: fixed;
+  background-position: center -238px;}
+
+.jumbotron h1 {position: absolute;
+    left:0;
+    margin-top: -10px;
+    padding-left: 20px;
+    color: #34495E;}
+
+.mission h3 {padding: 10px;
+    margin-top: -20px;
+    text-align: center;
+    color: #34495E;}
+
+footer {background-color: #0C9393;
+    position: absolute;
+    width: 100%;
+    height: auto;}
+  footer ul li {
+    display: inline-block;
+    list-style: none;
+    padding: 2%;
+    float: right;}
+  footer p {float: left;
+    padding: 2%;}
+  footer a, footer p {color: #fff;
+    vertical-align: middle;}
